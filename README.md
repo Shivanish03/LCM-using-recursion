@@ -6,7 +6,7 @@ int find_lcm(int, int);   // function prototype declaration
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("\n\n\t\c_program\n\n\n");
     int a, b, lcm;
     printf("\n\nEnter 2 integers to find LCM of:\n");
     scanf("%d%d", &a, &b);
